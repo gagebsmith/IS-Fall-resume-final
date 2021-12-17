@@ -1,0 +1,127 @@
+body {
+    background-image:url("../images/forest.jpg");;
+}
+.fingerguns {
+    width: 50%;
+    height: 20%;
+    float:right;
+    border-style: dashed;
+    border-width: 10px;
+    border:black;
+}
+.family{
+    width:100%
+}
+.bg-notfade{
+    background-color:lavender
+}
+.site-heading-lower{
+    font-family:Lobster 2;
+}
+
+.bg-notfad{
+    background-color:black
+}
+.nav-link{
+    font-family: cursive;
+}
+.intro .intro-text .intro-button {
+    width: 100%;
+    right: 0;
+    position: absolute;
+    bottom: -2rem;}
+
+    .p-5 {
+        padding: 2rem !important;
+      }
+
+    .text-right{
+        float: right;
+    }
+    h1{
+        border-style:dotted;
+        border-width: 15px;
+        border-radius: 10px;
+    }
+    .cta{
+
+        background-color: burlywood;
+    }
+
+.intro-text{
+    border-style: dashed;
+}
+.intro-button{
+   position: relative;
+}
+.navbar{
+    background-color: burlywood;
+}
+
+.gage{
+    width: 30%;
+    float: right;
+}
+.about-heading .about-heading-img {
+    position: left;
+    z-index: 0;
+  }
+  .about-heading .about-heading-content {
+    margin-top: 1rem;
+  
+  }
+  .resume-list{
+      font-size: x-large;
+      color: white;
+      padding-left: 100px;
+    border-left-style: dashed;
+    border-bottom-style: dashed;
+  }
+  .h2resume{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .footer1{
+    background-image: url("../images/forest.jpg");
+  }
+  .m-0{
+      color: black;
+  }
+  .b {
+      font-family: cursive;
+      font-size: 50px;
+  }
+  .inlinks{
+      font-style: italic;
+      
+  }
+
+  .resume-list2{
+    font-size: xx-large;
+    color: white;
+    padding-left: 100px;
+  border-left-style: dashed;
+   }
+  
+   .resume_link{
+       color: black;
+       background-color: #e6a756;;
+       padding: 80px;
+       position: absolute;
+       border-radius: 10px;
+       font-family: cursive;
+       font-size: xx-large;
+   }
+   .cont{
+       background-color: white;
+   }
+   .add{
+       outline: 5px dashed black;
+       background-color: black;
+   }
+   .add2{
+       background-color: #212529;
+    
+   }
+   .buryl{
+       background-color: burlywood;
+   }
